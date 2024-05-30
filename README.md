@@ -1,4 +1,4 @@
-# machine Mearning
+# Machine Learning
 
 ## Matérias de Aprendizado de Máquina I e II - Ciência de dados
 
